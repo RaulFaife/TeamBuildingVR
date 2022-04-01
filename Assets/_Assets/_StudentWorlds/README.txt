@@ -1,0 +1,1 @@
+This is going to be the folder where you will put all of your assets relating to your project
